@@ -4,3 +4,4 @@ Dataset used: https://www.kaggle.com/datasets/parisrohan/credit-score-classifica
 Total number of features: 28
 Total number of training instances: 1,00,000
 KNN model accuracy: 0.69 or 69%
+p
